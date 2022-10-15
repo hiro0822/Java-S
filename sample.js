@@ -1,4 +1,4 @@
-var nickname="taro"
+var nickname = "taro"
 console.log(nickname)
-var nickname="ichiro"
+nickname = "ichiro"
 console.log(nickname)
